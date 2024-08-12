@@ -39,11 +39,11 @@ Proyek ini adalah sebuah website edukasi yang dibangun menggunakan Laravel. Plat
 
 1. Clone repository ini:
    ```bash
-   git clone https://github.com/your-repo/your-project.git
+   git clone https://github.com/davlix/laravel-edu
    ```
 2. Masuk ke direktori proyek:
    ```bash
-   cd your-project
+   cd laravel-edu
    ```
 3. Instal dependensi:
    ```bash
