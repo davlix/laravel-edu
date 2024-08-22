@@ -1,10 +1,5 @@
 # Website Edukasi Laravel
 
-# dengan kelompok
-1. Dhema Eka Priantara
-2. Ade Kurnia Budiman
-3. Achmad Bisyral Hafi
-
 ## Situs : laraveledu.free.nf
 
 Proyek ini adalah sebuah website edukasi yang dibangun menggunakan Laravel. Platform ini memungkinkan pengguna untuk mendaftar, login, dan mengakses berbagai materi edukasi, termasuk artikel dan konten multimedia. Pengguna juga dapat berpartisipasi dalam diskusi terkait materi edukasi.
